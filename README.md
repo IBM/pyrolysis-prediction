@@ -44,7 +44,7 @@ NIST_WEBSITE is a link to a website obtained by `get_nist_link.py`, (e.g., https
 
 PRODUCT_FILE includes a list of products generated from a flavor. Each line of the file consists of a molecule in SMILES format. 
 
-THRESHOLD is a threshold of the EI mass spectrum values (set to 5.0 in our paper). 
+THRESHOLD is a threshold of the EI mass spectrum values. 
 
 ## Finding GHS Classification of molecules in the PubChem database
 
