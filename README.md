@@ -38,7 +38,7 @@ The flavor data has the same format described above.
 
 ## Finding EI mass spectrum matches to the products
 
-Usage: ```python -w "NIST_WEBSITE" -p PRODUCT_FILE -t THRESHOLD```
+Usage: ```python ./get_ei_mass_match.py -w "NIST_WEBSITE" -p PRODUCT_FILE -t THRESHOLD```
 
 NIST_WEBSITE is a link to a website obtained by `get_nist_link.py`, (e.g., https://webbook.nist.gov/cgi/cbook.cgi?InChI=TZMFJUDUGYTVRY-UHFFFAOYSA-N&Units=SI&Mask=200 for 2,3-Pentanedione)
 
